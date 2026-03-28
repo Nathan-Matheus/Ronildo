@@ -69,5 +69,5 @@ O aplicativo segue o modelo proposto na apostila, com pequenas adaptações visu
 
 ### Print das telas dos Blocos
 <img width="363" height="175" alt="liquidificador 2" src="https://github.com/user-attachments/assets/55c0da8c-ce38-44bc-a7cd-b9357dba0d53" />
-
+teste
 
