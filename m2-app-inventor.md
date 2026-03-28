@@ -71,3 +71,24 @@ O aplicativo segue o modelo proposto na apostila, com pequenas adaptações visu
 <img width="363" height="175" alt="liquidificador 2" src="https://github.com/user-attachments/assets/55c0da8c-ce38-44bc-a7cd-b9357dba0d53" />
 
 
+![Nome](https://github.com/user-attachments/assets/47c148b4-588b-4877-9446-1cdaf11ba30d)
+![CodeNome](https://github.com/user-attachments/assets/ccc3df0e-7269-4c73-889a-9f329c0c1b80)
+
+![Codigo](https://github.com/user-attachments/assets/ecd8611d-b6ab-4946-a028-68c4c87d2e57)
+![Tela](https://github.com/user-attachments/assets/d05a3d00-91d8-41b7-8ab1-95ff68b9ee37)
+
+![Voltar](https://github.com/user-attachments/assets/7a0c8829-60be-4ad0-99ed-5c8d9ca43d26)
+![VoltarTela](https://github.com/user-attachments/assets/7e961a53-2288-42ca-8c84-19cad438acff)
+
+![CodeTela](https://github.com/user-attachments/assets/4a9a7fe6-23a0-4c52-b2b4-b8069523643f)
+![Tela2](https://github.com/user-attachments/assets/549462d1-7b87-4e18-b124-41730bcfa6bd)
+
+![Camera](https://github.com/user-attachments/assets/ca0359a2-6686-4467-9ca9-6da6de21618e)
+![CodeCamera](https://github.com/user-attachments/assets/ef1b80d7-2aa6-4004-8ff6-bc03a676d6df)
+
+
+
+
+
+
+
