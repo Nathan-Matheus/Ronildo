@@ -9,7 +9,7 @@ As atividades estão organizadas nas seguintes branches:
 | Branch       | Acesso                                  | Descrição                                           |
 | ------------ | --------------------------------------- | --------------------------------------------------- |
 | PHP          | Você está aqui                          | Atividades e exercícios desenvolvidos em PHP        |
-| C#           | [Abrir Branch](../../tree/Csharp)         | Projetos e exercícios em C#                         |
+| C#           | [Abrir Branch](../../tree/Csharp)       | Projetos e exercícios em C#                         |
 | App-Inventor | [Abrir Branch](../../tree/App-Inventor) | Aplicativos e atividades feitas no MIT App Inventor |
 
 ## 🎯 Objetivo
@@ -29,3 +29,4 @@ Este repositório tem como finalidade registrar as atividades propostas em sala 
 | ---------- |
 | Ronildo A. |
 
+| Main | [Abrir Branch](../../tree/main) | Retornar para a main |
