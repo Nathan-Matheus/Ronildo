@@ -72,3 +72,77 @@ O botão “Limpar” apaga a cor.
 
 ### Print das telas dos Blocos
 <img width="363" height="175" alt="liquidificador 2" src="https://github.com/user-attachments/assets/55c0da8c-ce38-44bc-a7cd-b9357dba0d53" />
+
+
+
+
+# Projeto 4 – Quarto Aplicativo (pg. 64)
+
+### Descrição
+- ##### Objetivo do aplicativo:
+ - Tirar uma foto com a câmera do aparelho móvel do usuário e mostrar na tela.
+- ##### Funcionamento:
+ - Ao clicar no botão "Tirar Foto" a câmera tira uma fotografia e ajusta essa foto em imagem para a imagem aparecer na tela do usuário.
+- ##### O que foi **modificado ou melhorado** em relação ao exemplo da apostila:
+ - O aplicativo segue o modelo proposto na apostila, com pequenas adaptações visuais, sem alteração nas funcionalidades principais.
+
+### Print das telas do Design
+![Camera](https://github.com/user-attachments/assets/ca0359a2-6686-4467-9ca9-6da6de21618e)
+
+### Print das telas dos Blocos
+![CodeCamera](https://github.com/user-attachments/assets/ef1b80d7-2aa6-4004-8ff6-bc03a676d6df)
+
+
+
+
+# Projeto 5 – Quinto Aplicativo (pg. 69)
+
+### Descrição
+- ##### Objetivo do aplicativo:
+ - Trocar entre as telas Screen1, Tela1 e Tela2.
+- ##### Funcionamento:
+ - Ao clicar no botão "Tela 1" ou "Tela 2" na primeira tela o usuário é encaminhado pra tela cujo ele apertou o botão. Se o usuário for encaminhado para a Tela 1 ele verá o botão "Voltar Início", ao clicar no botão ele volta para a primeira tela. Se o usuário for encaminhado para a Tela 2 ele verá o botão "Voltar Tela Início" e "Voltar Tela 1", ao clicar no botão "Voltar Tela Início" ou "Voltar Tela 1" ele voltará pra tela cujo ele apertou o botão. 
+- ##### O que foi **modificado ou melhorado** em relação ao exemplo da apostila:
+ - O aplicativo segue o modelo proposto na apostila, com pequenas adaptações visuais, sem alteração nas funcionalidades principais.
+
+### Print das telas do Design (Screen1)
+![Tela](https://github.com/user-attachments/assets/d05a3d00-91d8-41b7-8ab1-95ff68b9ee37)
+### Print das telas dos Blocos (Screen1)
+![Codigo](https://github.com/user-attachments/assets/ecd8611d-b6ab-4946-a028-68c4c87d2e57)
+
+### Print das telas do Design (Tela1)
+![VoltarTela](https://github.com/user-attachments/assets/7e961a53-2288-42ca-8c84-19cad438acff)
+### Print das telas dos Blocos (Tela1)
+![Voltar](https://github.com/user-attachments/assets/7a0c8829-60be-4ad0-99ed-5c8d9ca43d26)
+
+### Print das telas do Design (Tela2)
+![Tela2](https://github.com/user-attachments/assets/549462d1-7b87-4e18-b124-41730bcfa6bd)
+### Print das telas dos Blocos (Tela2)
+![CodeTela](https://github.com/user-attachments/assets/4a9a7fe6-23a0-4c52-b2b4-b8069523643f)
+
+
+
+
+# Projeto 6 – Sexto Aplicativo (pg. 82)
+
+### Descrição
+- ##### Objetivo do aplicativo:
+ - Mostrar uma mensagem com o nome do usuário.
+- ##### Funcionamento:
+ - Ao clicar na caixa de texto é possivel o usuário digitar seu nome, após isso ele deve clicar no botão "Digite seu Nome e Clique Aqui!", depois do usuário clicar no botão o aplicativo irá mostrar a seguinte mensagen: "Olá (nome do usuário) !!!".
+- ##### O que foi **modificado ou melhorado** em relação ao exemplo da apostila:
+ - O aplicativo segue o modelo proposto na apostila, com pequenas adaptações visuais, sem alteração nas funcionalidades principais.
+
+### Print das telas do Design
+![Nome](https://github.com/user-attachments/assets/47c148b4-588b-4877-9446-1cdaf11ba30d)
+
+### Print das telas dos Blocos
+![CodeNome](https://github.com/user-attachments/assets/ccc3df0e-7269-4c73-889a-9f329c0c1b80)
+
+
+
+
+
+
+
+
