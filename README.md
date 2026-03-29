@@ -29,4 +29,4 @@ Este repositório tem como finalidade registrar as atividades propostas em sala 
 | ---------- |
 | Ronildo A. |
 
-| Main | [Abrir Branch](../../tree/main) | Retornar para a main |
+| [Voltar para a main](../../tree/main) |
