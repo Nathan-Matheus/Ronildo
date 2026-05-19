@@ -1,39 +1,35 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farmácia VAV</title>
+<?php
 
-    <!-- Arquivo principal de estilo -->
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+require_once "config/conexao.php";
 
-    <h1>Farmácia VAV</h1>
+/* Busca inicial dos produtos cadastrados */
+$sql = $conexao->prepare("SELECT * FROM produtos");
+$sql->execute();
 
-    <!-- Tabela temporária usada enquanto o banco ainda não foi integrado -->
-    <table>
+$produtos = $sql->fetchAll(PDO::FETCH_ASSOC);
+
+require_once "includes/header.php";
+?>
+
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>Fabricante</th>
+        <th>Preço</th>
+        <th>Estoque</th>
+    </tr>
+
+    <?php foreach($produtos as $produto) { ?>
+
+        <!-- Linha criada automaticamente para cada produto -->
         <tr>
-            <th>Nome</th>
-            <th>Fabricante</th>
-            <th>Preço</th>
-            <th>Estoque</th>
+            <td><?= $produto['nome'] ?></td>
+            <td><?= $produto['fabricante'] ?></td>
+            <td>R$ <?= $produto['preco'] ?></td>
+            <td><?= $produto['estoque'] ?></td>
         </tr>
 
-        <tr>
-            <td>Dipirona</td>
-            <td>Neo Química</td>
-            <td>R$ 12,50</td>
-            <td>20</td>
-        </tr>
-    </table>
+    <?php } ?>
+</table>
 
-    <br>
-
-    <a href="cadastro.php">
-        <button>Cadastrar Produto</button>
-    </a>
-
-</body>
-</html>
+<?php require_once "includes/footer.php"; ?>
