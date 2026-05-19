@@ -8,14 +8,17 @@ $senha = "";
 
 try {
 
-    /* PDO facilita segurança e organização das consultas */
+    /* PDO segurança e organização das consultas */
     $conexao = new PDO(
         "mysql:host=$host;dbname=$banco;charset=utf8",
         $usuario,
         $senha
     );
 
-    $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $conexao->setAttribute(
+        PDO::ATTR_ERRMODE,
+        PDO::ERRMODE_EXCEPTION
+    );
 
 } catch(PDOException $erro) {
 
