@@ -2,14 +2,25 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
     <title>FarmaX</title>
 
+    <!-- Arquivo principal de estilo -->
+
     <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
 
-    <!-- Cabeçalho reutilizado em todas as páginas -->
+    <!-- Cabeçalho reutilizado -->
     <header>
-        <h1>FarmaX</h1>
+        <h1>💊 FarmaX</h1>
     </header>
+
+    <!-- Navegação principal -->
+
+    <nav>
+        <a href="index.php">Produtos</a>
+        <a href="cadastro.php">Cadastrar</a>
+    </nav>
