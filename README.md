@@ -9,8 +9,10 @@ As atividades estão organizadas nas seguintes branches:
 | Branch       | Acesso                                  | Descrição                                           |
 | ------------ | --------------------------------------- | --------------------------------------------------- |
 | PHP          | [Abrir Branch](../../tree/PHP)          | Atividades e exercícios desenvolvidos em PHP        |
-| C#           | [Abrir Branch](../../tree/Csharp)         | Projetos e exercícios em C#                         |
+| C#           | [Abrir Branch](../../tree/Csharp)       | Projetos e exercícios em C#                         |
 | App-Inventor | [Abrir Branch](../../tree/App-Inventor) | Aplicativos e atividades feitas no MIT App Inventor |
+| PHP-Farmacia | [Abrir Branch](../../tree/PHP-Farmacia) | Atividade do sistema de uma farmácia                |
+| App-Autoral  | [Abrir Branch](../../tree/App-Autoral)  | Aplicativos e atividades autoralmente               |
 
 ## 🎯 Objetivo
 
