@@ -8,9 +8,11 @@ As atividades estão organizadas nas seguintes branches:
 
 | Branch       | Acesso                                  | Descrição                                           |
 | ------------ | --------------------------------------- | --------------------------------------------------- |
-| PHP          | Você está aqui                          | Atividades e exercícios desenvolvidos em PHP        |
+| PHP          | [Abrir Branch](../../tree/PHP)          | Atividades e exercícios desenvolvidos em PHP        |
 | C#           | [Abrir Branch](../../tree/Csharp)       | Projetos e exercícios em C#                         |
 | App-Inventor | [Abrir Branch](../../tree/App-Inventor) | Aplicativos e atividades feitas no MIT App Inventor |
+| PHP-Farmacia | Você está aqui!                         | Atividade do sistema de uma farmácia                |
+| App-Autoral  | [Abrir Branch](../../tree/App-Autoral)  | Aplicativos e atividades autoralmente               |
 
 ## 🎯 Objetivo
 
@@ -22,6 +24,7 @@ Este repositório tem como finalidade registrar as atividades propostas em sala 
 | ---------------- |
 | Nathan Nabas     |
 | Matheus Theodoro |
+| Nathan Gabriel   |
 
 ## 👨‍🏫 Professor
 
